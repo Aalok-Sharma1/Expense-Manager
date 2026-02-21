@@ -1,6 +1,5 @@
 🚀 Personal Transaction Manager
 💰 Smart Financial Tracking Web Application
-
 🌐 Live Demo
 
 🔗 https://expmanage.netlify.app
@@ -23,7 +22,7 @@ Personal Transaction Manager is a modern financial dashboard web application tha
 
 🚪 Logout Securely
 
-It is designed like a real fintech dashboard with modern UI and professional layout.
+It is designed like a real fintech dashboard with a modern UI and professional layout.
 
 🖼️ Project Screenshots
 🔐 Login Page
