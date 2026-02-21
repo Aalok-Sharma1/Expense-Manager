@@ -26,13 +26,18 @@ It is designed like a real fintech dashboard with a modern UI and professional l
 
 🖼️ Project Screenshots
 🔐 Login Page
+
 <img src="./Expimg/login.png" width="800"/>
 📊 Finance Dashboard
+
 <img src="./Expimg/dashboard.png" width="800"/>
 ➕ Add Credit Modal
+
 <img src="./Expimg/add-credit.png" width="800"/>
 📜 Add New User
+
 <img src="./Expimg/add-user.png" width="800"/>
+
 🛠️ Tech Stack
 💻 Frontend
 
